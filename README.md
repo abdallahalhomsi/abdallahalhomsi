@@ -29,13 +29,6 @@
 
 ---
 
-## 📈 Currently Learning
-
-- Advanced backend architecture & microservices  
-- Deep learning fundamentals and model deployment  
-- Clean architecture and CI/CD pipelines
-
----
 
 ## 🌐 Connect With Me
 
