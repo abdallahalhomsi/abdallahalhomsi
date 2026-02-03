@@ -2,6 +2,7 @@
 
 🎓 CS Student @ **Sabancı University**  
 💻 Full Stack & AI Developer 
+I am a motivated Computer Science student with strong hands-on experience in full-stack development, artificial intelligence, machine learning, and data science. I enjoy building production-ready systems, applying ML to real-world problems, and continuously expanding my skills through academic and personal projects.
 
 ---
 
@@ -23,6 +24,20 @@
   Used Verilog and Logical Programming
 
 ---
+## 📚 Academic & Course Projects
+
+In addition to major projects, I have completed multiple assignments and mini-projects as part of my coursework in:
+
+Data Structures & Algorithms (trees, graphs, sorting, complexity analysis)
+
+Object-Oriented Programming (OOP)
+
+Logic & Digital System Design
+
+Machine Learning & Data Science
+
+These projects strengthened my problem-solving skills, algorithmic thinking, and software engineering foundations.
+
 
 ## 🛠️ Tech Stack
 
