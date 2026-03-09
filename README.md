@@ -22,6 +22,12 @@ I am a motivated Computer Science student with strong hands-on experience in ful
 
 - **Number Guessing Circuit** - Number Guessing Digital Circuit (2 Players)
   Used Verilog and Logical Programming
+  
+- **Winter Olympic Games Database Management System** - By June 2026
+
+- **Machine Learning Projects Using Various Algorithms and Techniques** - By June 2026
+
+- **Other ways of approaches to Undecidable Algorithm Project** - By June 2026
 
 ---
 ## 📚 Academic & Course Projects
