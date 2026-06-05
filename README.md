@@ -23,7 +23,7 @@ I am a motivated Computer Science student with strong hands-on experience in ful
 - **Number Guessing Circuit** - Number Guessing Digital Circuit (2 Players)
   Used Verilog and Logical Programming
   
-- **Winter Olympic Games Database Management System** - By June 2026
+- **Winter Olympic Games Database Management System** - A web-based database management system for organizing Winter Olympic events, venues, sponsors, delegations, and performance records. The project integrates MySQL for relational data, triggers, and stored procedures, while using MongoDB to manage support tickets and admin-user communication.
 
 - **Machine Learning Projects** - A collection of machine learning projects using Python, Jupyter Notebook, scikit-learn, data preprocessing, model training, classification algorithms, evaluation metrics, and visualization techniques.
   
