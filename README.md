@@ -25,9 +25,9 @@ I am a motivated Computer Science student with strong hands-on experience in ful
   
 - **Winter Olympic Games Database Management System** - By June 2026
 
-- **Machine Learning Projects Using Various Algorithms and Techniques** - By June 2026
-
-- **Other ways of approaches to Undecidable Algorithm Project** - By June 2026
+- **Machine Learning Projects** - A collection of machine learning projects using Python, Jupyter Notebook, scikit-learn, data preprocessing, model training, classification algorithms, evaluation metrics, and visualization techniques.
+  
+- **Subset Sum Optimization Project** - An algorithmic optimization project comparing brute force and greedy heuristic approaches for the Subset Sum problem, including runtime analysis, quality testing, functional testing, and experimental performance visualization.
 
 ---
 ## 📚 Academic & Course Projects
@@ -42,7 +42,17 @@ Logic & Digital System Design
 
 Machine Learning & Data Science
 
+Artifical Intelligence
+
+Natural Language Processing
+
+Cloud Computing
+
+Computer Vision
+
 These projects strengthened my problem-solving skills, algorithmic thinking, and software engineering foundations.
+
+Many more
 
 
 ## 🛠️ Tech Stack
@@ -52,6 +62,8 @@ These projects strengthened my problem-solving skills, algorithmic thinking, and
 - **Databases:** MySQL, PostgreSQL, Firebase 
 - **Tools:** Docker, Git, GitHub, Postman, Jira, 
 - **AI/ML:** YOLO, Pandas, Scikit-learn
+
+Many more
 
 ---
 
