@@ -73,6 +73,6 @@ Many more
 - 📫 Email: homsiabdullah4@gmail.com  
 - 🧑‍💻 GitHub: [@abdallahalhomsi](https://github.com/abdallahalhomsi)  
 - 🔗 LinkedIn: [linkedin.com/in/abdallah-al-homsi-817a7834b](https://www.linkedin.com/in/abdallah-al-homsi-817a7834b) 
-- 🧳 Portfolio: *Coming Soon*
+- 🧳 Portfolio: (https://abdallah-portfolio-ten.vercel.app/)
 
 ---
